@@ -1,0 +1,14 @@
+.body {
+  padding: 20px;
+  background-color: white;
+  /* border: 10px solid black; */
+  width: 100%;
+}
+.buttons button {
+  margin: 10px;
+}
+
+.buttons .btn-group {
+  float: right;
+  right: 16px;
+}

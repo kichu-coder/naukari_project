@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+}
+
+a {
+  color: grey;
+}
+
+.container {
+  /* margin: 30px; */
+  padding: 30px;
+  border: grey;
+  background-color: white;
+  margin-bottom: 50px;
+}
